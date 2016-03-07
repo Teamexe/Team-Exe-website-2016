@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team .exe
 ## This is the official website of **Team .exe** for the Technical Festival
 
@@ -22,3 +23,8 @@
 3. View the issues put up in the repo and try to fix them.
 
 4. **IMPORTANT** :- Before sending a **Pull Request** make sure that your forked repo is in sync with the base repo.
+=======
+# Team-Exe-website
+	This repo will hold the new team exe site.
+	fork this repo and make changes.
+>>>>>>> b05ea255274b0860cdfde43266afd9f797e251d6
