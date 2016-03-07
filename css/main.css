@@ -1,6 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,300,100,500,700);
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Condensed:400,300,700);
-@import url(http://fonts.googleapis.com/css?family=Glegoo);
 body {
   font-family: 'Ubuntu', sans-serif;
 }
@@ -87,7 +84,7 @@ a:hover {
 }
 
 .navbar-header .navbar-brand a img {
-  width: 195px;
+  width: 188px;
   margin-top: -35px;
   
 
@@ -949,6 +946,13 @@ ul.social-icons li {
 }
 .team-member .social-icons a {
   background: #02bdd5;
+  color: #fff;
+  padding: 4px 8px;
+  display: inline-block;
+  font-size: 15px;
+}
+.social-icons a:hover {
+  background: #02edd5;
   color: #fff;
   padding: 4px 8px;
   display: inline-block;
