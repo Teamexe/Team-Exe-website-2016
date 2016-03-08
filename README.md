@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Team .exe
 ## This is the official website of **Team .exe** for the Technical Festival
 
@@ -10,7 +9,9 @@
 5. events.html#offline
 6. events.html#online
 7. about.html (done) - about team .exe and the site
-8. projects.html - projects by team .exe
+8. projects.html (done) - projects by team .exe
+
+### temporarily this site is being hosted @ http://rishabhchaudhary.xyz/
 
 ###How to get Started?
 1. Firstly, **fork** this repo from **Teamexe/Team-Exe-website** by clicking on fork button
