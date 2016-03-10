@@ -145,7 +145,7 @@ a:hover {
   opacity: 0;
 }
 #hero-area {
-  background: url('../images/slider.jpg') no-repeat 50%;
+  background: url('../images/sample2.png') no-repeat 50%;
   background-size: cover;
   background-attachment: fixed;
   padding: 230px 0;
@@ -202,7 +202,7 @@ a:hover {
 }
 
 #hero-areaa {
-  background: url('../images/slider.jpg') no-repeat 50%;
+  background: url('../images/sample2.png') no-repeat 50%;
   background-size: cover;
   background-attachment: fixed;
   padding: 50px 0;
