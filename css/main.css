@@ -449,6 +449,11 @@ figure figcaption p {
   margin-bottom: 0;
   margin-top: 5px;
 }
+
+figcaption sup{
+color: #7CFC00;
+}
+
 #feature {
   padding: 80px 0;
 }

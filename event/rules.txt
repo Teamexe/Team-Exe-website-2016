@@ -1,0 +1,16 @@
+RULES FOR HUNT THE CODE
+1. The Event will start on 15 March,2016 at 5pm and will end on 18 March,2016 at 5pm.
+2. One question will be posted each day at 5pm. (So there will be 3 questions in total).
+3. In each question, there will be two files-
+	a) First file will be an executable file which will contain the output of the program.
+	b) Second file will be a text file containing details about the input/output for the program.
+4. Question will be sended to your correspoding email ids. One can also download these file from Team.exe website. 
+	Link to the questions- teamexe.in/huntcode.html 
+5. For each question one has to:
+	a) Write a code which will give the same output as that of executable file by analyzing it(executable file).
+	b) Write a text file which will contain the logic behind the output of the file and logic about the implementation of your code.
+6. You have to send both these files(containing your answer) at Team.exe's email - team.exe2k16@gmail.com
+7. Points will be given on FIRST COME FIRST SERVE basis.
+8. A maximum of 10 points and a minimum of 0 points can be awarded.
+9. Deadline for the submission of one question will be uptill 24hours after the question is posted.
+ 
