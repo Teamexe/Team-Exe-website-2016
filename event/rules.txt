@@ -1,22 +1,30 @@
-RULES FOR "HUNT THE CODE"
-1. The Event will start on 15 March,2016 at 5:30 PM and will end on 18 March,2016 at 11:59 PM.
-2. One question will be posted each day at 5:30 PM. (So there will be 3 questions in total).
-3. In each question, there will be two files-
-	a) First file will be an executable file in which you can try any number of input test cases and get the output of the 			   program.
-	b) Second file will be a text file containing details about the input constraints for the program.
-	
-	From this you have to judge the code of the program.
-	
-4. Question will be sent to your correspoding email ids. One can also download these file from Team.exe website.
+RULES FOR HUNT THE CODE
 
-	Link to the questions- teamexe.in/huntcode.html 
-	
-5. For each question one has to:
-	a) Write a code which will give the same output as that of executable file by analyzing it(executable file).
-	b) Write a text file which will contain the logic behind the output of the file and logic about the implementation of 			   your code.
-	
-6. You have to send both these files(containing your answer) at Team.exe's email - exehuntcode@gmail.com
-7. Points will be given on the basis of time taken to submit the question.
-8. A maximum of 10 points and a minimum of 0 points can be awarded.
-9. Deadline for the submission of one question will be uptill next day's 11:59 PM from when the question is published.
- 
+1.	The event will start on 15th March, 2016 at 6pm and will end on 18th March, 2016 at 6pm.
+2.	One question will be posted each day at 6pm. (So there will be 3 questions in total).
+3.	In each question, there will be two files-
+a)	First file will be an executable file which will contain the output of the program.
+b)	Second file will be a text file containing details about the input/output for the program.
+4.	Questions will be sent to your corresponding email ids. One can also download these files from Team.EXE website.
+5.	Link to the questions- www.teamexe.in/huntcode.html
+6.	For each question one has to:
+a)	Write a code which will give the same output as that of executable file by analyzing it (executable file).
+b)	Write a text file which will contain the logic behind the output of the file and logic about the implementation.
+7.	You have to email both these files (containing your answer) at exehuntcode@gmail.com.
+8.	Points will be awarded for each correct answer.
+9.	A maximum of 10 points and a minimum of 0 points can be awarded on the basis of time of submission. 
+10.	In case of tie, the efficiency of the program will be taken into consideration. 
+11.	Hints can be asked for by sending email to exehuntcode@gmail.com. But 2 points will be deducted for each hint.
+12.	To submit the answer, one has to mention the subject as "Answer question no. (Your roll no.)".
+13.	To ask for hint, one has to mention the subject as "HINT question no. (your roll no.)".
+14.	Each email sent (for both answer and hint) should contain the Name, Roll no & Contact number of that person along with the files containing answer. 
+15.	Deadline for the submission of one question will be up till 24 hours after the question is posted.  
+16.	Question will contain files for Linux and windows separately.
+17.	Languages allowed are C, C++, Java and Python. Submissions in other languages will not be evaluated.
+18.	Please do not copy the code from someone. If any two codes match then both the participants will be disqualified.
+
+Note for Linux users-
+1. You can execute the file by using command "./filename" (without quotes) .For example if filename is day1 then use command "./day1" (without quotes) to run that file.
+2. In case the file does not execute, change the permission of file by using command "chmod  +x  filename" (without quotes) and then follow step 1. For example, if your filename is day1 then use command "chmod  +x  day1" (without quotes). 
+
+
