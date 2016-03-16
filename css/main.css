@@ -453,6 +453,18 @@ figure figcaption p {
 figcaption sup{
 color: #7CFC00;
 }
+#done{
+  color: #00FFFF;
+}
+#ongoing{
+  color: #00FF00;
+}
+#starting{
+  color: #8E388E;
+}
+#nimbus{
+  color: #7CFC00;
+}
 
 #feature {
   padding: 80px 0;
