@@ -1,0 +1,179 @@
+@import url('reset.css');
+@font-face{
+	font-family: "Ubuntu";
+	}
+	@font-face{
+	font-family: "Ubuntu";
+	}
+	@font-face{
+	font-family: "Ubuntu";
+	}
+body {
+  font-family: 'Ubuntu', sans-serif;
+  text-align:center;
+  
+}
+
+#but{
+     border-radius: 10px;
+	 padding:10px;
+	 width:300px;
+}
+.shadow-top-down {
+    box-shadow: 0px 8px 8px -4px rgba(0,0,0,0.75);
+    transition: all .5s;
+}
+.shadow-top-down:hover { box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.25);}
+
+.show-menu {
+    position: fixed;
+    z-index: 999;
+    top: 30px;
+    right: 100px;
+    text-align: center;
+}
+.show-menu a:hover, .show-menu a {
+    font: normal normal 100 100px/70px 'Fira Sans', sans-serif;
+    border: 1px solid rgba(37,58,68,.15);
+    text-decoration: none;
+    border-radius: 50px;
+    background: #fff;
+    display: block;
+    color: #455a64;
+    width: 70px;
+    height: 70px;
+    padding: 0px;
+    outline: none;
+}
+.tabe
+{
+	margin:auto;
+}
+
+#tab2
+{
+	background-color:#b0c4de;
+}
+#tab2:hover
+{
+	background-color:#000000;
+	color:#ffffff;
+}
+
+#tab1
+{
+	
+    width:1000dp;
+	background-color:#ffffff;
+}
+#tab1:hover
+{
+	background-color:#000000;
+	color:yellow;
+}
+h1{
+	font:bold 20px Tahoma;
+}
+
+#imp
+{
+	border: 1px solid black;
+	width:6000px;
+	margin: 50px auto;
+}
+
+#topheader
+{
+	border:1px solid black;
+	padding:20px;
+}
+
+#menu
+{
+	background:black;
+	color: white;
+}
+
+
+#menu li
+{
+	display:inline-block;
+	padding:10px;
+	
+}
+
+#side
+{
+	float:right;
+	
+}
+
+table
+{
+    margin-top:-40px;
+	height:400px;
+	padding: 0px 0px 0px 0px;
+}
+
+#abc
+{
+	color:black;
+}
+h1{
+	/*position:fixed;*/
+	margin:10px 0px 0px 20px;	
+	font-size:100px;
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+	background-attachment:#ffffff;
+}
+
+
+
+	#header {
+		
+	
+	
+		background-color: rgba(53, 56, 73, 0.95);
+		height: 80px;
+		left: 0;
+		line-height: 3.5em;
+		padding: 0 1.25em;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index:1;
+	}
+	#header h1 {
+		
+			
+			border-bottom: 0;
+			font-size: 60px;
+			margin-bottom: 0;
+			opacity: 1;
+			visibility: visible;
+			z-index=1;
+		}
+
+			#header h1 a {
+				border: 0;
+			}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

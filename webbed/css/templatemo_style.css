@@ -1,0 +1,250 @@
+/* 
+
+App Landing Template
+
+http://www.templatemo.com/tm-474-app-landing
+
+*/
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Light.eot');
+    src: local('Fira Sans Light'),
+         url('../fonts/FiraSans-Light.eot') format('embedded-opentype'),
+         url('../fonts/FiraSans-Light.woff') format('woff'),
+         url('../fonts/FiraSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Regular.eot');
+    src: local('Fira Sans Regular'),
+         url('../fonts/FiraSans-Regular.eot') format('embedded-opentype'),
+         url('../fonts/FiraSans-Regular.woff') format('woff'),
+         url('../fonts/FiraSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('../fonts/FiraSans-Bold.eot');
+    src: local('Fira Sans Bold'),
+         url('../fonts/FiraSans-Bold.eot') format('embedded-opentype'),
+         url('../fonts/FiraSans-Bold.woff') format('woff'),
+         url('../fonts/FiraSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+/***** Typography *****/
+
+/***** Template Header *****/
+header.template_header h1 {
+    font: normal normal 200 50px/150px 'Fira Sans', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+}
+header.template_header h1 span {
+    position: relative; 
+    top: -15px;
+}
+
+.sd{
+    font-size:20px;
+    font-weight: bold;
+
+}
+
+/***** Features *****/
+#templatemo_features {
+    background: white;
+	padding-bottom: 130px;
+	width:100%;
+	z-index=-1;
+}
+#templatemo_features p {
+    padding-bottom: 30px;
+    text-align: center;
+	z-index=-1;
+}
+#templatemo_features .feature-box {
+    transition: all .5s;
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+	z-index=-1;
+}
+#templatemo_features .feature-box2 {
+    
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    z-index=-1;
+}
+#templatemo_features .feature-box:hover {
+    padding: 0;
+    color: #fff;
+	z-index=-1;
+}
+#templatemo_features .feature-box1{
+    transition: all .5s;
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+	width:100%;
+}
+#templatemo_features .feature-box1:hover {
+    padding: 0;
+    color: #000000;
+	z-index=-1;
+}
+
+#templatemo_features .feature-box .feature-box-inner {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    transition: all .5s;
+    background: #EDEDED;
+    padding: 20px;
+    margin: auto;
+	z-index=-1;
+}
+
+#templatemo_features .feature-box .feature-box-inner img{
+width: 250px;
+}
+
+#templatemo_features .feature-box2 .feature-box-inner2 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    background: #fff;
+    padding: 20px;
+    width: 900px;
+    margin: auto;
+    z-index=-1;
+}
+#templatemo_features .feature-box .feature-box-inner1 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    transition: all .5s;
+    background: #fff;
+    padding: 0px;
+    margin: auto;
+	/*width:100%;*/
+	z-index=-1;
+}
+
+
+#templatemo_features .feature-box1 .feature-box-inner1 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+   text-align: left;
+   list-style-type: circle;
+    background: #fff;
+    padding: 50px;
+    margin: auto;
+	width:1000px;
+	z-index=-1;
+}
+.ab{
+    list-style-type: circle;
+}
+
+#templatemo_features .feature-box:hover .feature-box-inner {
+    box-shadow: inset 0px 0px 0px 0px #cecece;
+    border-bottom: 10px solid #104E8B;
+    border-top: 10px solid #104E8B;
+    padding: 60px 20px 60px 20px;
+    background: #02bdd5;
+	z-index=-1;
+}
+
+#templatemo_features .feature-box p {
+    max-width: 800px;
+    min-height: 260px;
+    line-height: 32px;
+    padding-top: 50px;
+    font-size: 18px;
+    margin: auto;
+	z-index=-1;
+}
+#templatemo_features .feature-box2 p {
+    max-width: 800px;
+    min-height: 260px;
+    line-height: 32px;
+    padding-top: 50px;
+    font-size: 18px;
+    margin: auto;
+    z-index=-1;
+}
+#templatemo_features .feature-box .feature-box-icon {
+    border-radius: 0px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 56px;
+    color:#233842;
+	z-index=-1;
+}
+
+
+
+/*----------------------------------------------------------------------------------*/
+
+#templatemo_features .feature-box1{
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width:100%;
+}
+
+#templatemo_features .feature-box1 .feature-box-inner1 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+   
+    background: #fff;
+    padding: 50px;
+    margin: auto;
+    width:1000px;
+    z-index=-1;
+}
+#templatemo_features .feature-box1{
+    background: transparent;
+    padding: 40px 0 40px 0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width:100%;
+}
+
+#templatemo_features .feature-box .feature-box-inner1 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+    background: #fff;
+    padding: 0px;
+    margin: auto;
+    /*width:100%;*/
+    z-index=-1;
+}
+
+
+#templatemo_features .feature-box1 .feature-box-inner1 {
+    box-shadow: inset 0px 0px 0 10px #cecece;
+    border-bottom: 10px solid #cecece;
+    border-top: 10px solid #cecece;
+   
+    background: #fff;
+    padding: 50px;
+    margin: auto;
+    width:1000px;
+    z-index=-1;
+}
