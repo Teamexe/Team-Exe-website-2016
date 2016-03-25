@@ -240,6 +240,8 @@
                     </div>
                 </div>
             </footer> <!-- /#footer -->
-        
+        <?php
+                include("wbcounter.php");
+                ?> 
     </body>
 </html>
