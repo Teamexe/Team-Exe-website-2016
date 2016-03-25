@@ -561,9 +561,7 @@
                     <div class="col-md-8">
                         <p class="copyright">Copyright : <span>All rights reserved</span> | Design & Developed by <b><a href="index.html" title="Team EXE official">Team .EXE</a></b></p>
                         <br/>
-                       <?php
-                        include("counter.php");
-                        ?>
+                       
                     </div>
                     <div class="col-md-4">
                         <!-- Social Media -->
