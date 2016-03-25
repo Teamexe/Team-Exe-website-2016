@@ -112,7 +112,7 @@
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
                                 <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                   Team .EXE is the technical team of Computer Science & Engineering Department for <br/>technical fest NIMBUS
+                                   Team .EXE is the technical team of Computer Science & Engineering Department for <br/>technical fest <a href="http://festnimbus.com" target="_blank" title="Fest Nimbus Website"> NIMBUS</a>
                                    at<br/>
                                    <a href="http://nith.ac.in/" target="_blank" title="NIT Hamirpur Website"> NIT Hamirpur</a>.
                                    <br/>
