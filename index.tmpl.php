@@ -143,7 +143,59 @@
                             Below is the list of our ongoing events, with their status mentioned.<br/>Click on the event to know more about it.
                         </p>
                     </div>
+
                     <div class="row">
+                    <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a href="webbed/index.html" target="_blank" title="select theme">
+                                    Webbed<sup id="ongoing"> Ongoing</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    18/03/16 - 03/04/16
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    Paradox<sup id="starting"> Starting soon</sup> 
+                                </a>
+                                </h3>
+                                <p>
+                                    28/03/16 onwards
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    Game of codes<sup id="starting"> Starting soon</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    02/04/16 
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
                     <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                                 <div class="img-wrapper">
@@ -161,23 +213,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a href="webbed/index.html" target="_blank" title="select theme">
-                                    Webbed<sup id="ongoing"> Ongoing</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    18/03/16 - 03/04/16
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
+                        
                     <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
@@ -242,7 +278,7 @@
                                 </a>
                                 </h3>
                                 <p>
-                                    11/03/16 - 15/03/201 
+                                    11/03/16 - 15/03/16 
                                 </p>
                                 </figcaption>
                             </figure>
@@ -265,40 +301,8 @@
                         </div>
                         
                         
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    Paradox<sup id="starting"> Starting soon</sup> 
-                                </a>
-                                </h3>
-                                <p>
-                                    28/03/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    Game of codes<sup id="starting"> Starting soon</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    02/04/16 
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
+                        
+                        
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
                                 <div class="img-wrapper">
@@ -557,9 +561,7 @@
                     <div class="col-md-8">
                         <p class="copyright">Copyright : <span>All rights reserved</span> | Design & Developed by <b><a href="index.html" title="Team EXE official">Team .EXE</a></b></p>
                         <br/>
-                       <?php
-                        include("counter.php");
-                        ?>
+                       
                     </div>
                     <div class="col-md-4">
                         <!-- Social Media -->
