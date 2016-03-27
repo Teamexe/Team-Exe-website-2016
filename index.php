@@ -53,7 +53,7 @@
                     
                     <!-- logo -->
                     <div class="navbar-brand">
-                        <a href="index.html" >
+                        <a href="index.php" >
                             <img src="images/logo.png" alt="Team .EXE logo" title="Team .EXE logo"> 
                            
                         </a>
@@ -65,7 +65,7 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="index.html" >Home</a>
+                                <a href="index.php" >Home</a>
                             </li>
                             <li><a href="about.html">About</a></li>
                             <li><a href="projects.html">Projects</a></li>
@@ -559,7 +559,7 @@
             <footer id="footer">
                 <div class="container">
                     <div class="col-md-8">
-                        <p class="copyright">Copyright : <span>All rights reserved</span> | Design & Developed by <b><a href="index.html" title="Team EXE official">Team .EXE</a></b></p>
+                        <p class="copyright">Copyright : <span>All rights reserved</span> | Design & Developed by <b><a href="index.php" title="Team EXE official">Team .EXE</a></b></p>
                         <br/>
                        
                     </div>

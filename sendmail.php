@@ -6,7 +6,7 @@
                       $subject = $_POST['subject'] ;
                       $message = $_POST['message'] ;
                       $message = wordwrap($message, 70);
-                      mail($email_to, $subject,$message . "\nFrom : " . $email_from, "From:" . "rishabh0402@gmail.com");
+                      mail($email_to, $subject,$message . "\nFrom : " . $email_from, "From:" . "site");
                       }
                     else
                       {
