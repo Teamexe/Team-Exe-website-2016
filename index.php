@@ -169,7 +169,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="paradox/" title="starting soon">
                                     Paradox<sup id="starting"> Starting soon</sup> 
                                 </a>
                                 </h3>
