@@ -67,10 +67,11 @@
                             <li>
                                 <a href="index.php" >Home</a>
                             </li>
+                            <li><a href="paradox/">Paradox</a></li>
                             <li><a href="about.html">About</a></li>
                             <li><a href="projects.html">Projects</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members <span class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members<span class="caret"></span></a>
                                 <div class="dropdown-menu">
                                     <ul>
                                         <li><a href="coordinators.html">Coordinators</a></li>
@@ -174,7 +175,7 @@
                                 </a>
                                 </h3>
                                 <p>
-                                    28/03/16 onwards
+                                    29/03/16 - 9:00 PM
                                 </p>
                                 </figcaption>
                             </figure>

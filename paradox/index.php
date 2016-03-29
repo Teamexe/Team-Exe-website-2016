@@ -128,20 +128,18 @@
                     </div>
                     <div class="col-md-6">
                         <div class="block">
-                            <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Paradox is starting in </h3>
+                            <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Paradox is starting today at 9:00 PM</h3>
                             </div>
                             <h1 id="countdown-holder"></h1>
-<script type="text/javascript">
-    var clock = document.getElementById("countdown-holder")
-    , targetDate = new Date(2016, 02, 30); // Jan 1, 2050;
- 
-  clock.innerHTML = countdown(targetDate).toString();
-  setInterval(function(){
-    clock.innerHTML = countdown(targetDate).toString();
-  }, 1000);
-</script>
-                            
-                        
+								<script type="text/javascript">
+								    var clock = document.getElementById("countdown-holder")
+								    , targetDate = new Date(2016, 02, 30); // Jan 1, 2050;
+								 
+								  clock.innerHTML = countdown(targetDate).toString();
+								  setInterval(function(){
+								    clock.innerHTML = countdown(targetDate).toString();
+								  }, 1000);
+								</script>
                     </div>
                 </div>
                 </div>
