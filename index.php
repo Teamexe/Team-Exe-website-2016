@@ -67,10 +67,11 @@
                             <li>
                                 <a href="index.php" >Home</a>
                             </li>
+                            <li><a href="paradox/">Paradox</a></li>
                             <li><a href="about.html">About</a></li>
                             <li><a href="projects.html">Projects</a></li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members <span class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members<span class="caret"></span></a>
                                 <div class="dropdown-menu">
                                     <ul>
                                         <li><a href="coordinators.html">Coordinators</a></li>
@@ -152,6 +153,23 @@
                                 </div>
                                 <figcaption>
                                 <h3>
+                                <a href="paradox/" title="select theme">
+                                    Paradox<sup id="ongoing"> Ongoing</sup> 
+                                </a>
+                                </h3>
+                                <p>
+                                    29/03/16
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
                                 <a href="webbed" target="_blank" title="select theme">
                                     Webbed<sup id="ongoing"> Ongoing</sup>
                                 </a>
@@ -162,23 +180,7 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a href="paradox/" title="starting soon">
-                                    Paradox<sup id="starting"> Starting soon</sup> 
-                                </a>
-                                </h3>
-                                <p>
-                                    28/03/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
+                        
                         <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
                                 <div class="img-wrapper">
