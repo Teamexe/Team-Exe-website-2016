@@ -128,7 +128,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="block">
-                            <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Paradox is starting today at 9:00 PM</h3>
+                            <h3 class="subtitle wow fadeInUp" data-wow-delay=".3s" data-wow-duration="500ms">Due to some technical issue<br>PARADOX will be live at 9:30 PM<br>Sorry for the Inconvenience!</h3>
                             </div>
                             <h1 id="countdown-holder"></h1>
 								
