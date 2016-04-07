@@ -153,7 +153,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="http://goo.gl/forms/JC6hMFQKFV" target="_blank" title="register now">
                                     CodeSense<sup id="nimbus"> During Nimbus</sup>
                                 </a>
                                 </h3>
@@ -171,7 +171,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="http://goo.gl/forms/ygxZ83T4LD" target="_blank" title="starting soon">
                                     Exeplore<sup id="nimbus"> During Nimbus</sup>
                                 </a>
                                 </h3>
@@ -189,7 +189,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="http://goo.gl/forms/ygxZ83T4LD" target="_blank" title="starting soon">
                                     CodeSwap<sup id="nimbus"> During Nimbus</sup>
                                 </a>
                                 </h3>
@@ -207,7 +207,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="http://goo.gl/forms/JC6hMFQKFV" target="_blank" title="register now">
                                     HackHunt<sup id="nimbus"> During Nimbus</sup>
                                 </a>
                                 </h3>
@@ -224,7 +224,7 @@
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
+                                <a href="http://hackerearth.com/game_of_codes" target="_blank" title="starting soon">
                                     Game of codes<sup id="Over"> Over</sup>
                                 </a>
                                 </h3>
