@@ -147,6 +147,94 @@
 
                     <div class="row">
                     <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    CodeSense<sup id="nimbus"> During Nimbus</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    08/04/16 &nbsp&nbsp11:00 AM
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    Exeplore<sup id="nimbus"> During Nimbus</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    08/04/16 &nbsp&nbsp2:00 PM
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    CodeSwap<sup id="nimbus"> During Nimbus</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    08/04/16 onwards
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    HackHunt<sup id="nimbus"> During Nimbus</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    08/04/16 onwards
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="starting soon">
+                                    Game of codes<sup id="Over"> Over</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    06/04/16  &nbsp&nbsp&nbsp9:00 PM - 11:59 PM
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                    <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
                                 <div class="img-wrapper">
                                     
@@ -180,24 +268,24 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        
                         <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                                 <div class="img-wrapper">
                                     
                                 </div>
                                 <figcaption>
                                 <h3>
-                                <a title="starting soon">
-                                    Game of codes<sup id="starting"> Starting soon</sup>
-                                </a>
+                                <a href="https://www.facebook.com/teamexe/posts/1080498001971000" target="_blank" target="_blank" title="View photos">
+                                    Ethical hacking <sup id="Over"> Over</sup>
                                 </h3>
                                 <p>
-                                    02/04/16 
+                                    12/03/16 & 13/03/16 
                                 </p>
                                 </figcaption>
                             </figure>
                         </div>
+                        
+                        
                     <div class="col-sm-4 col-xs-12">
                             <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="600ms">
                                 <div class="img-wrapper">
@@ -211,6 +299,23 @@
                                 </h3>
                                 <p>
                                     15/03/16 - 18/03/16
+                                </p>
+                                </figcaption>
+                            </figure>
+                        </div>
+                        <div class="col-sm-4 col-xs-12">
+                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
+                                <div class="img-wrapper">
+                                    
+                                </div>
+                                <figcaption>
+                                <h3>
+                                <a title="a whatsApp event">
+                                    Brain busters <sup id="Over"> Over</sup>
+                                </a>
+                                </h3>
+                                <p>
+                                    11/03/16 - 15/03/16 
                                 </p>
                                 </figcaption>
                             </figure>
@@ -268,111 +373,8 @@
                                 </figcaption>
                             </figure>
                         </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="a whatsApp event">
-                                    Brain busters <sup id="Over"> Over</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    11/03/16 - 15/03/16 
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a href="https://www.facebook.com/teamexe/posts/1080498001971000" target="_blank" target="_blank" title="View photos">
-                                    Ethical hacking <sup id="Over"> Over</sup>
-                                </h3>
-                                <p>
-                                    12/03/16 & 13/03/16 
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
                         
                         
-                        
-                        
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    CodeSwap<sup id="nimbus"> During Nimbus</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    08/04/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    CodeSense<sup id="nimbus"> During Nimbus</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    08/04/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="900ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    HackHunt<sup id="nimbus"> During Nimbus</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    08/04/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
-                        <div class="col-sm-4 col-xs-12">
-                            <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="1200ms">
-                                <div class="img-wrapper">
-                                    
-                                </div>
-                                <figcaption>
-                                <h3>
-                                <a title="starting soon">
-                                    Exeplore<sup id="nimbus"> During Nimbus</sup>
-                                </a>
-                                </h3>
-                                <p>
-                                    08/04/16 onwards
-                                </p>
-                                </figcaption>
-                            </figure>
-                        </div>
                         
                     </div>
                 </div>
