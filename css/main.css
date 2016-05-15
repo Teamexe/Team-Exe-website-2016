@@ -308,6 +308,8 @@ a:hover {
 #call-to-action .block .btn-contact i {
   margin-right: 10px;
 }
+
+
 #about {
   padding: 110px 0;
 }
@@ -932,6 +934,13 @@ ul.social-icons li {
 }
 .company-description {
   margin-top: 80px;
+}
+.big-image-container {
+  margin-top: 80px;
+  width:70%;
+  height:auto;
+  object-fit:contain;
+  object-position:0 0;
 }
 .company-description .block h3 {
   margin-top: 0;
