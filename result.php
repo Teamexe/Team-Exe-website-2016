@@ -33,6 +33,7 @@
         <script src="nimbus2016/js/slider.js"></script>
         <script src="nimbus2016/js/jquery.fancybox.js"></script>
         <script src="nimbus2016/js/main.js"></script>
+
     </head>
     <body>
         <!--
@@ -65,9 +66,6 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="result.php" >Interview Result</a>
-                            </li>
-                            <li>
                                 <a href="nimbus2016/index.php" >Team .exe 2016 website</a>
                             </li>
                             
@@ -91,7 +89,7 @@
                             <!-- Slider -->
                             <section class="cd-intro">
                                 <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                                <span>Welcome To</span><br/>
+                                <span>Selected members from 2nd year for</span><br/>
                                 <span class="cd-words-wrapper">
                                     <b class="is-visible">TEAM .exe</b>
                                     <b>TEAM .exe</b>
@@ -101,15 +99,34 @@
                                 </h1>
                                 </section> <!-- cd-intro -->
                                 <!-- /.slider -->
-                                <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                   Team .EXE is the technical team of Computer Science & Engineering Department for <br/>technical fest NIMBUS
-                                   at<br/>
-                                   <a href="http://nith.ac.in/" target="_blank" title="NIT Hamirpur Website"> NIT Hamirpur</a>.
-                                   <br/>
-                                   
-                                                                   </h2>
-                                   <a class="btn-lines dark light wow fadeInUp animated smooth-scroll btn btn-default btn-green" data-wow-delay=".9s" href="#hero-areaa" data-section="#hero-areaa" >
-                                    Team .exe 2017 website</a>
+                                <h1 class="wow fadeInUp animated" data-wow-delay=".6s" >
+</br>Anishka Gupta 15MI534</br>
+Ankit Guleria 15504</br>
+Anurag Thakur 15545</br>
+Apoorva Sharma 15510</br>
+Nimit Bhardwaj 15MI506</br>
+Rashi Sah 15MI528</br>
+Ritu Dadhwal 15529</br>
+Sarabjit Singh 15MI535</br>
+Shaharyar Shamshi IIITU15125</br>
+Sourav Sahoo 15MI502</br></h1>
+</br></br>
+<h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
+<span class="cd-words-wrapper">
+<b class="is-visible">Shortlisted students for 2nd round</b>
+</span>
+</h1>
+<h1 class="wow fadeInUp animated" data-wow-delay=".6s" >
+Anant Kabra </br>
+Amit Chambial 15538</br>
+Divyansh Sharma 15516</br>
+Kumar Shashwat  15554</br>
+Sushant Sharma</br>
+Vaibhav Sharma 15548</br>
+Vishal Chaudhary 15MI511
+</h1>
+                                
+
                                 
                             </div>
                         </div>
@@ -126,43 +143,7 @@
             Portfolio Section Start
             ================================================== -->
 
-             <!--
-        ==================================================
-        Slider Section Start
-        ================================================== -->
-        <section id="hero-areaa" >
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <div class="block wow fadeInUp" data-wow-delay=".3s">
-
-                            <!-- Slider -->
-                            <section class="cd-intro">
-                                <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s" >
-                                <span>TEAM .EXE 2017</span><br>
-                                <span class="cd-words-wrapper">
-                                    <b class="is-visible">WEBSITE</b>
-                                    <b>COMING</b>
-                                    <b>SOON</b>
-                                </span>
-                                </h1>
-                                </section> <!-- cd-intro -->
-                                <!-- /.slider -->
-                                <h2 class="wow fadeInUp animated" data-wow-delay=".6s" >
-                                     Team .exe 2017 website coming soon.</br>Thanks for visiting.
-                                </h2>
-                                     
-                                      <section id="feature">
-                <div class="container">
-                   
-                    
-                </div>
-            </section> <!-- /#feature -->                          
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section><!--/#main-slider-->
+            
             <!--
             ==================================================
             Footer Section Start
