@@ -65,7 +65,7 @@
                     <div class="main-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li>
-                                <a href="result.php" >Interview Result</a>
+                                <a href="website2016/git.html" >Git</a>
                             </li>
                             <li>
                                 <a href="nimbus2016/index.php" >Team .exe 2016 website</a>
