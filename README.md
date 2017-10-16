@@ -1,3 +1,8 @@
+[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg?style=flat-square
+[welcome-link]:  https://github.com/Rishabh04-02/Elective-manager-new/pulls?style=flat-square
+[standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square
+[standard-readme-link]:   https://github.com/RichardLitt/standard-readme?style=flat-square
+
 # Team-Exe-website
 
 [![PRs & Issues Welcome][welcom-badge]][welcome-link]
