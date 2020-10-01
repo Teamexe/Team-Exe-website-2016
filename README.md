@@ -9,7 +9,7 @@
 [![standard-readme compliant][standard-readme-badge]][standard-readme-link]
 
 ## Introduction
-This repo will hold the Team .EXE 2016 website.
+This repository will hold the Team .EXE 2016 website.
 
 ## Usage
 Just clone and browse website.
@@ -27,7 +27,7 @@ Refer CONTRIBUTING.md
 
 * Running locally
 
-     1. clone the project using the command
+     1. clone the project using the command and 
  	      git clone https://github.com/Teamexe/Team-Exe-website.git
 
 ## Configuration
